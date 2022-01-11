@@ -1,0 +1,182 @@
+这是除了‘POP/ROCK’外的所有流派的一些显著特征的分数，分数取值为0到1
+genre,attr,score
+Avant-Garde,energy and instrumentalness and liveness,0.878400816
+Avant-Garde,energy and valence and instrumentalness,0.872433293
+Avant-Garde,energy and instrumentalness,0.866238419
+Avant-Garde,energy and instrumentalness and speechiness,0.863504522
+Avant-Garde,energy and valence and instrumentalness and liveness,0.859434704
+Avant-Garde,danceability and energy and instrumentalness,0.858950503
+Avant-Garde,valence and instrumentalness and liveness,0.858339946
+Avant-Garde,valence and instrumentalness,0.855761405
+Avant-Garde,instrumentalness and liveness,0.85361261
+Avant-Garde,energy and instrumentalness and liveness and speechiness,0.848245505
+Stage & Screen,energy and valence and instrumentalness,0.891275217
+Stage & Screen,valence and instrumentalness,0.883132938
+Stage & Screen,danceability and valence and instrumentalness,0.880426794
+Stage & Screen,danceability and energy and valence and instrumentalness,0.878618656
+Stage & Screen,danceability and energy and instrumentalness,0.875638081
+Stage & Screen,energy and valence and instrumentalness and speechiness,0.873529712
+Stage & Screen,valence and instrumentalness and liveness,0.872133492
+Stage & Screen,energy and valence and instrumentalness and liveness,0.871574897
+Stage & Screen,valence and instrumentalness and speechiness,0.870936387
+Stage & Screen,danceability and instrumentalness,0.866692397
+R&B;,energy and instrumentalness and speechiness,0.816507657
+R&B;,valence and instrumentalness and speechiness,0.81180542
+R&B;,valence and acousticness and instrumentalness and speechiness,0.80913832
+R&B;,energy and instrumentalness and liveness,0.807807549
+R&B;,energy and acousticness and instrumentalness and speechiness,0.807360328
+R&B;,energy and valence and instrumentalness and speechiness,0.80633306
+R&B;,valence and instrumentalness and liveness,0.805189264
+R&B;,energy and instrumentalness and liveness and speechiness,0.805178357
+R&B;,energy and valence and acousticness and instrumentalness,0.803979346
+R&B;,valence and instrumentalness and liveness and speechiness,0.803673496
+International,energy and instrumentalness,0.848198865
+International,energy and instrumentalness and speechiness,0.838111475
+International,instrumentalness and liveness,0.829617976
+International,energy and instrumentalness and liveness,0.826961443
+International,valence and instrumentalness and speechiness,0.824829324
+International,valence and instrumentalness,0.823577831
+International,energy and acousticness and instrumentalness and speechiness,0.822526628
+International,valence and instrumentalness and liveness,0.821653277
+International,danceability and instrumentalness,0.82126557
+International,instrumentalness and speechiness,0.819639929
+Country,valence and instrumentalness and speechiness,0.823127675
+Country,energy and instrumentalness and speechiness,0.813800424
+Country,energy and valence and instrumentalness and speechiness,0.811729206
+Country,valence and instrumentalness and liveness and speechiness,0.799709233
+Country,danceability and instrumentalness and speechiness,0.799384708
+Country,energy and instrumentalness and liveness and speechiness,0.796201973
+Country,danceability and energy and instrumentalness and speechiness,0.794494207
+Country,tempo and instrumentalness and speechiness,0.79311365
+Country,energy and tempo and instrumentalness and speechiness,0.792183917
+Country,valence and tempo and instrumentalness and speechiness,0.791093881
+Electronic,energy and acousticness and instrumentalness,0.791051858
+Electronic,valence and acousticness and instrumentalness,0.775931903
+Electronic,energy and valence and acousticness and instrumentalness,0.767887998
+Electronic,acousticness and instrumentalness and speechiness,0.767256117
+Electronic,danceability and acousticness and instrumentalness,0.767039048
+Electronic,energy and acousticness and instrumentalness and speechiness,0.765780536
+Electronic,valence and acousticness and instrumentalness and speechiness,0.758882867
+Electronic,energy and acousticness and instrumentalness and liveness,0.758705001
+Electronic,tempo and acousticness and instrumentalness,0.758588364
+Electronic,acousticness and instrumentalness and liveness,0.75807671
+Vocal,energy and acousticness and instrumentalness and speechiness,0.785182067
+Vocal,valence and acousticness and instrumentalness and speechiness,0.777550445
+Vocal,acousticness and instrumentalness and speechiness,0.772186722
+Vocal,danceability and acousticness and instrumentalness and speechiness,0.769226121
+Vocal,acousticness and instrumentalness and liveness and speechiness,0.763703974
+Vocal,tempo and acousticness and instrumentalness and speechiness,0.760191477
+Vocal,acousticness and instrumentalness and speechiness and duration_ms,0.7594855
+Vocal,energy and acousticness and instrumentalness and liveness,0.758344592
+Vocal,energy and acousticness and instrumentalness,0.755788808
+Vocal,energy and valence and acousticness and instrumentalness,0.755372198
+Latin,valence and instrumentalness and speechiness,0.841472979
+Latin,energy and instrumentalness and speechiness,0.834819452
+Latin,energy and valence and instrumentalness and speechiness,0.831457958
+Latin,valence and instrumentalness and liveness and speechiness,0.829570042
+Latin,energy and instrumentalness and liveness and speechiness,0.820629833
+Latin,valence and instrumentalness and liveness,0.817674205
+Latin,valence and tempo and instrumentalness and speechiness,0.814512853
+Latin,danceability and energy and instrumentalness and speechiness,0.813693095
+Latin,danceability and instrumentalness and speechiness,0.813225233
+Latin,energy and tempo and instrumentalness and speechiness,0.811124352
+Comedy/Spoken,valence and tempo and instrumentalness and speechiness,0.874671928
+Comedy/Spoken,valence and loudness and instrumentalness and speechiness,0.872666152
+Comedy/Spoken,danceability and valence and instrumentalness and speechiness,0.872298386
+Comedy/Spoken,danceability and tempo and instrumentalness and speechiness,0.867677122
+Comedy/Spoken,valence and acousticness and instrumentalness and speechiness,0.865039558
+Comedy/Spoken,danceability and loudness and instrumentalness and speechiness,0.863860253
+Comedy/Spoken,valence and instrumentalness and speechiness and duration_ms,0.85868317
+Comedy/Spoken,danceability and acousticness and instrumentalness and speechiness,0.857514205
+Comedy/Spoken,tempo and loudness and instrumentalness and speechiness,0.851654008
+Comedy/Spoken,danceability and instrumentalness and speechiness and duration_ms,0.849807066
+Folk,energy and acousticness and instrumentalness and speechiness,0.806007779
+Folk,valence and acousticness and instrumentalness and speechiness,0.795870996
+Folk,acousticness and instrumentalness and liveness and speechiness,0.789077721
+Folk,acousticness and instrumentalness and speechiness,0.785820573
+Folk,danceability and acousticness and instrumentalness and speechiness,0.78544083
+Folk,acousticness and instrumentalness and speechiness and duration_ms,0.779580721
+Folk,energy and acousticness and instrumentalness and liveness,0.779046713
+Folk,tempo and acousticness and instrumentalness and speechiness,0.775704896
+Folk,energy and loudness and instrumentalness and speechiness,0.773009907
+Folk,valence and acousticness and instrumentalness and liveness,0.772258232
+Reggae,energy and acousticness and instrumentalness and speechiness,0.875270783
+Reggae,valence and acousticness and instrumentalness and speechiness,0.866411764
+Reggae,acousticness and instrumentalness and speechiness,0.863274325
+Reggae,acousticness and instrumentalness and liveness and speechiness,0.855537054
+Reggae,danceability and acousticness and instrumentalness and speechiness,0.855226463
+Reggae,tempo and acousticness and instrumentalness and speechiness,0.85389513
+Reggae,acousticness and instrumentalness and speechiness and duration_ms,0.84971422
+Reggae,loudness and acousticness and instrumentalness and speechiness,0.825759443
+Reggae,valence and acousticness and instrumentalness,0.810082557
+Reggae,energy and valence and acousticness and instrumentalness,0.802192381
+Blues,valence and instrumentalness and speechiness,0.830079767
+Blues,valence and instrumentalness and liveness and speechiness,0.825950172
+Blues,energy and instrumentalness and speechiness,0.825633294
+Blues,energy and valence and instrumentalness and speechiness,0.824551422
+Blues,valence and acousticness and instrumentalness and speechiness,0.822848937
+Blues,energy and acousticness and instrumentalness and speechiness,0.818533415
+Blues,energy and instrumentalness and liveness and speechiness,0.818331401
+Blues,instrumentalness and liveness and speechiness,0.812511852
+Blues,valence and instrumentalness and speechiness and duration_ms,0.812379279
+Blues,danceability and energy and instrumentalness and speechiness,0.812054663
+Children's,energy and instrumentalness and liveness,0.753163351
+Children's,energy and instrumentalness,0.751038685
+Children's,valence and instrumentalness and liveness,0.750773132
+Children's,energy and instrumentalness and speechiness,0.750720232
+Children's,instrumentalness and liveness,0.750221286
+Children's,valence and instrumentalness,0.748866877
+Children's,valence and instrumentalness and duration_ms,0.748736567
+Children's,energy and valence and instrumentalness,0.746558827
+Children's,instrumentalness and liveness and duration_ms,0.744475827
+Children's,valence and instrumentalness and speechiness,0.744278266
+Religious,energy and instrumentalness and speechiness,0.793249886
+Religious,instrumentalness and liveness and speechiness,0.778564413
+Religious,valence and instrumentalness and liveness,0.776006137
+Religious,energy and instrumentalness and liveness and speechiness,0.775702935
+Religious,valence and instrumentalness and liveness and speechiness,0.773024085
+Religious,energy and valence and instrumentalness and speechiness,0.772865634
+Religious,energy and instrumentalness,0.767578801
+Religious,energy and instrumentalness and liveness,0.767428957
+Religious,valence and instrumentalness and speechiness,0.764753445
+Religious,energy and valence and instrumentalness,0.763325551
+New Age,energy and valence and instrumentalness and speechiness,0.86447805
+New Age,energy and valence and instrumentalness,0.858500881
+New Age,valence and instrumentalness and speechiness,0.854716524
+New Age,energy and instrumentalness and speechiness,0.849184077
+New Age,energy and valence and instrumentalness and liveness,0.848753053
+New Age,danceability and energy and valence and instrumentalness,0.84866875
+New Age,danceability and valence and instrumentalness and speechiness,0.847095366
+New Age,danceability and energy and instrumentalness and speechiness,0.845400137
+New Age,valence and instrumentalness and liveness and speechiness,0.84220595
+New Age,valence and instrumentalness and liveness,0.839672927
+Jazz,energy and instrumentalness,0.880419341
+Jazz,energy and instrumentalness and speechiness,0.879168669
+Jazz,instrumentalness and speechiness,0.868879449
+Jazz,energy and instrumentalness and liveness,0.860040616
+Jazz,instrumentalness and liveness,0.849629486
+Jazz,instrumentalness and liveness and speechiness,0.847000097
+Jazz,energy and valence and instrumentalness,0.843509491
+Jazz,valence and instrumentalness,0.842903673
+Jazz,valence and instrumentalness and speechiness,0.841480483
+Jazz,energy and instrumentalness and liveness and speechiness,0.840751315
+Classical,energy and valence and instrumentalness,0.846944376
+Classical,energy and valence and instrumentalness and liveness,0.831733083
+Classical,danceability and energy and valence and instrumentalness,0.831677892
+Classical,energy and valence and instrumentalness and speechiness,0.831411365
+Classical,danceability and energy and instrumentalness,0.831152233
+Classical,valence and instrumentalness,0.831004508
+Classical,energy and instrumentalness,0.826180337
+Classical,energy and instrumentalness and speechiness,0.82247081
+Classical,danceability and valence and instrumentalness,0.822264906
+Classical,valence and instrumentalness and liveness,0.822000116
+Easy Listening,energy and instrumentalness and speechiness,0.877532656
+Easy Listening,valence and instrumentalness and speechiness,0.868034869
+Easy Listening,danceability and instrumentalness and speechiness,0.861396453
+Easy Listening,energy and valence and instrumentalness and speechiness,0.861101189
+Easy Listening,instrumentalness and speechiness and duration_ms,0.861058822
+Easy Listening,instrumentalness and speechiness,0.861001186
+Easy Listening,energy and instrumentalness and speechiness and duration_ms,0.854785372
+Easy Listening,danceability and energy and instrumentalness and speechiness,0.853416276
+Easy Listening,energy and valence and instrumentalness,0.851604841
+Easy Listening,valence and instrumentalness and speechiness and duration_ms,0.848376426
